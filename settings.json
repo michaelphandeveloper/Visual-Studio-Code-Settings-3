@@ -1,0 +1,63 @@
+{
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontWeight": "500",
+  "editor.fontSize": 18,
+  "editor.formatOnSave": true,
+  "editor.fontLigatures": true,
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.tabSize": 2,
+  "editor.letterSpacing": 1,
+  "editor.lineHeight": 20,
+  "editor.minimap.maxColumn": 150,
+  "editor.minimap.scale": 1,
+  "editor.minimap.side": "right",
+  "editor.cursorBlinking": "expand",
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "window.zoomLevel": 1,
+  "security.workspace.trust.untrustedFiles": "open",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.colorTheme": "Evondev Dracula Darker Colour",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.tree.renderIndentGuides": "none",
+  "workbench.editor.wrapTabs": true,
+  "indentRainbow.colorOnWhiteSpaceOnly": true,
+  "indentRainbow.includedLanguages": [],
+  "indentRainbow.excludedLanguages": ["plaintext"],
+  "indentRainbow.updateDelay": 100,
+  "indentRainbow.lightIndicatorStyleLineWidth": 1,
+  "indentRainbow.colors": [
+    "rgba(247, 37, 133, 0.5)",
+    "rgba(181, 23, 158, 0.5)",
+    "rgba(114, 9, 183, 0.5)",
+    "rgba(86, 11, 173, 0.5)",
+    "rgba(72, 12, 168, 0.5)",
+    "rgba(58, 12, 163, 0.5)",
+    "rgba(63, 55, 201, 0.5)",
+    "rgba(67, 97, 238, 0.5)",
+    "rgba(72, 149, 239, 0.5)",
+    "rgba(76, 201, 240, 0.5)"
+  ],
+  "indentRainbow.ignoreLinePatterns": ["/[ \t]* [*]/g", "/[ \t]+[/]{2}/g"],
+  "indentRainbow.ignoreErrorLanguages": ["markdown", "haskell"],
+  "color-highlight.markerType": "background",
+  "ponicode.token": "c9210d02-5d41-4b94-813f-ccd1a9644497",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.guides.bracketPairs": "active",
+  "html.format.wrapLineLength": 150,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "keyword.other.dotenv",
+        "settings": {
+          "foreground": "#FF000005"
+        }
+      }
+    ]
+  },
+  "security.workspace.trust.banner": "always",
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "explorer.confirmDelete": false,
+  "editor.codeActionsOnSave": {}
+}
